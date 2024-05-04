@@ -1,0 +1,13 @@
+package com.example.enoca_challenge_entity;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+@SpringBootApplication
+public class EnocaChallengeEntityApplication {
+
+    public static void main(String[] args) {
+        SpringApplication.run(EnocaChallengeEntityApplication.class, args);
+    }
+
+}
